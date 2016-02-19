@@ -9,7 +9,7 @@ var Profile = React.createClass({
     return {
       notes: [],
       bio: {
-        name: 'Mart McFly'
+        name: 'Marty McFly'
       },
       repos: []
     }
